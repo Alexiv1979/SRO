@@ -147,6 +147,13 @@
       <value>БО 2.16.3</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="06ec8a3f-9e65-42c6-8341-cf354d87ed10">
+    <name>БО_2165</name>
+    <synonym>
+      <key>ru</key>
+      <value>БО 2.16.5</value>
+    </synonym>
+  </enumValues>
   <enumValues uuid="4a637cc5-1a1d-4b36-801a-92b87f61a917">
     <name>ОКУД0420001_2163</name>
     <synonym>
