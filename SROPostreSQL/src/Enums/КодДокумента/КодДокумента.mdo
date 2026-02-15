@@ -91,6 +91,13 @@
       <value>0420820 2.16.5</value>
     </synonym>
   </enumValues>
+  <enumValues uuid="d68279bd-ace5-424d-b5ff-c8fcf0f9c95a">
+    <name>ОКУД_0420820_21651</name>
+    <synonym>
+      <key>ru</key>
+      <value>0420820 2.16.5.1</value>
+    </synonym>
+  </enumValues>
   <enumValues uuid="d09565e5-04f7-4ba4-94c0-63fc9e123aa0">
     <name>ОКУД_0420821_21632</name>
     <synonym>
