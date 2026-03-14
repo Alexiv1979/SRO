@@ -83,9 +83,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <dataHistory>Use</dataHistory>
-    <fillValue xsi:type="core:StringValue">
-      <value></value>
-    </fillValue>
+    <fillValue xsi:type="core:StringValue"/>
     <indexing>Index</indexing>
   </resources>
   <resources uuid="8735949b-f259-48b9-97e9-a81dfc7dcc8d">
@@ -103,9 +101,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <dataHistory>Use</dataHistory>
-    <fillValue xsi:type="core:StringValue">
-      <value></value>
-    </fillValue>
+    <fillValue xsi:type="core:StringValue"/>
     <indexing>Index</indexing>
   </resources>
   <resources uuid="b8810612-dc7a-4a45-a83c-163a8669b578">

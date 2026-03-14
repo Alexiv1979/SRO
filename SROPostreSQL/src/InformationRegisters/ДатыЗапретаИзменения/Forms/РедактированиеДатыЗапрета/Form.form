@@ -44,9 +44,7 @@
               <key>ru</key>
               <value>Запрет изменения данных не установлен</value>
             </presentation>
-            <value xsi:type="core:StringValue">
-              <value></value>
-            </value>
+            <value xsi:type="core:StringValue"/>
           </choiceList>
         </extInfo>
       </items>
@@ -336,9 +334,7 @@
                 <key>ru</key>
                 <value>Не установлена</value>
               </presentation>
-              <value xsi:type="core:StringValue">
-                <value></value>
-              </value>
+              <value xsi:type="core:StringValue"/>
             </choiceList>
             <choiceList>
               <presentation>

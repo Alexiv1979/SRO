@@ -22,7 +22,7 @@
 				<c>
 					<f>1</f>
 					<tl>
-						<v8:item>
+						<v8:item xmlns:v8="http://v8.1c.ru/8.1/data/core">
 							<v8:lang>#</v8:lang>
 							<v8:content>Консоль запросов 8.3.2.20</v8:content>
 						</v8:item>
