@@ -53,9 +53,7 @@
       </toolTip>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
-      <fillValue xsi:type="core:StringValue">
-        <value></value>
-      </fillValue>
+      <fillValue xsi:type="core:StringValue"/>
     </attributes>
     <attributes uuid="64613d63-73a0-4cda-8cff-6f6acfdb7ce0">
       <name>ПодсистемаКонфигурации</name>
@@ -73,9 +71,7 @@
       </toolTip>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
-      <fillValue xsi:type="core:StringValue">
-        <value></value>
-      </fillValue>
+      <fillValue xsi:type="core:StringValue"/>
     </attributes>
     <attributes uuid="f4ca03f8-67cd-4efc-a656-e9d43ad790d1">
       <name>ОбъектМетаданных</name>
@@ -93,9 +89,7 @@
       </toolTip>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
-      <fillValue xsi:type="core:StringValue">
-        <value></value>
-      </fillValue>
+      <fillValue xsi:type="core:StringValue"/>
     </attributes>
     <attributes uuid="47ab4fc0-7435-4a61-9ef0-a12b907285c4">
       <name>КраткоеОписаниеОшибки</name>
@@ -113,9 +107,7 @@
       </toolTip>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
-      <fillValue xsi:type="core:StringValue">
-        <value></value>
-      </fillValue>
+      <fillValue xsi:type="core:StringValue"/>
     </attributes>
     <attributes uuid="78031966-6a5b-4ffa-b1ec-9395ef89c01c">
       <name>ПодробноеОписаниеОшибки</name>
@@ -133,9 +125,7 @@
       </toolTip>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
-      <fillValue xsi:type="core:StringValue">
-        <value></value>
-      </fillValue>
+      <fillValue xsi:type="core:StringValue"/>
     </attributes>
   </tabularSections>
   <templates uuid="e35cfd9b-ce36-411d-9d98-90348d0eb088">

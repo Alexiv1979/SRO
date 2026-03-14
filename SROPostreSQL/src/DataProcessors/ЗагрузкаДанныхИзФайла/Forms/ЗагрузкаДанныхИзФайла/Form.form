@@ -1377,9 +1377,7 @@
                 <key>ru</key>
                 <value>Все</value>
               </presentation>
-              <value xsi:type="core:StringValue">
-                <value></value>
-              </value>
+              <value xsi:type="core:StringValue"/>
             </choiceList>
             <choiceList>
               <presentation>

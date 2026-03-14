@@ -579,9 +579,7 @@
                     <key>ru</key>
                     <value>Загружать классификатор в программу</value>
                   </presentation>
-                  <value xsi:type="core:StringValue">
-                    <value></value>
-                  </value>
+                  <value xsi:type="core:StringValue"/>
                 </choiceList>
               </extInfo>
             </items>
