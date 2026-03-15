@@ -1209,6 +1209,7 @@
   <commonModules>CommonModule.ЗапретРедактированияРеквизитовОбъектовПереопределяемый</commonModules>
   <commonModules>CommonModule.ЗапретРедактированияРеквизитовОбъектовСлужебный</commonModules>
   <commonModules>CommonModule.ЗапретРедактированияРеквизитовОбъектовСлужебныйКлиент</commonModules>
+  <commonModules>CommonModule.ИдентификационныеНомераНалогоплательщиков</commonModules>
   <commonModules>CommonModule.ИнтеграцияПодсистемБСП</commonModules>
   <commonModules>CommonModule.ИнтеграцияПодсистемБСПКлиент</commonModules>
   <commonModules>CommonModule.ИнтеграцияСТехнологиейСервиса</commonModules>
@@ -1306,6 +1307,9 @@
   <commonModules>CommonModule.СклонениеПредставленийОбъектовКлиентСервер</commonModules>
   <commonModules>CommonModule.СРО_ЗагрузкаОтчетности</commonModules>
   <commonModules>CommonModule.СРО_ОбщегоНазначенияСервер</commonModules>
+  <commonModules>CommonModule.СРО_ПроверкаДанных</commonModules>
+  <commonModules>CommonModule.СРО_РаботаСДаннымиОбъекта</commonModules>
+  <commonModules>CommonModule.СРО_РаботаСЭлектроннойПочтой</commonModules>
   <commonModules>CommonModule.СРО_ФормированиеИОтправкаОтчетов</commonModules>
   <commonModules>CommonModule.СтандартныеПодсистемыБезопасныйРежим</commonModules>
   <commonModules>CommonModule.СтандартныеПодсистемыВызовСервера</commonModules>
@@ -1345,7 +1349,6 @@
   <commonModules>CommonModule.ФайловыеФункции</commonModules>
   <commonModules>CommonModule.ФайловыеФункцииКлиент</commonModules>
   <commonModules>CommonModule.ФизическиеЛицаКлиентСервер</commonModules>
-  <commonModules>CommonModule.ИдентификационныеНомераНалогоплательщиков</commonModules>
   <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
   <xDTOPackages>XDTOPackage.ApplicationExtensionsManifest_1_0_0_1</xDTOPackages>
   <xDTOPackages>XDTOPackage.ApplicationExtensionsPermissions_1_0_0_1</xDTOPackages>
