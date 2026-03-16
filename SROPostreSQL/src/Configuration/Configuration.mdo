@@ -1149,6 +1149,7 @@
   <commonTemplates>CommonTemplate.СРО_СводныйОтчетОРезультатахПроверки_1кв2025</commonTemplates>
   <commonTemplates>CommonTemplate.СРО_СводныйОтчетОРезультатахПроверки_2кв2025</commonTemplates>
   <commonTemplates>CommonTemplate.СРО_СводныйОтчетОРезультатахПроверки_4кв2025</commonTemplates>
+  <commonTemplates>CommonTemplate.СРО_ПроверкаОтчетовОбОперацияхСДСМарт2026</commonTemplates>
   <filterCriteria>FilterCriterion.СвязанныеДокументы</filterCriteria>
   <filterCriteria>FilterCriterion.ФайлыВТоме</filterCriteria>
   <commonModules>CommonModule.АдминистрированиеКластераCOMКлиентСервер</commonModules>
