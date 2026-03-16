@@ -75,6 +75,7 @@
     <type>
       <types>DocumentRef.БухгалтерскаяОтчетность</types>
       <types>DocumentRef.ОтчетностьКПК</types>
+      <types>DocumentRef.ОтчетОбОперацияхСДС</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
