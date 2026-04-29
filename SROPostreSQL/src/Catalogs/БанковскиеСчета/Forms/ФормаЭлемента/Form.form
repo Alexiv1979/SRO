@@ -172,6 +172,9 @@
     <userVisible>
       <common>true</common>
     </userVisible>
+    <dataPath xsi:type="form:DataPath">
+      <segments>1/0:79e70978-b482-4a39-a91c-873075dca65c</segments>
+    </dataPath>
     <extendedTooltip>
       <name>БИКБанкаРасширеннаяПодсказка</name>
       <id>15</id>
@@ -249,6 +252,9 @@
     <userVisible>
       <common>true</common>
     </userVisible>
+    <dataPath xsi:type="form:DataPath">
+      <segments>1/0:2fb648ab-d566-4a8b-b847-c8c4db4f09ac</segments>
+    </dataPath>
     <extendedTooltip>
       <name>БанкРасширеннаяПодсказка</name>
       <id>21</id>

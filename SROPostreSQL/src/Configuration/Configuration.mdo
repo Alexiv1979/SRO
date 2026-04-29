@@ -1150,6 +1150,7 @@
   <commonTemplates>CommonTemplate.СРО_СводныйОтчетОРезультатахПроверки_2кв2025</commonTemplates>
   <commonTemplates>CommonTemplate.СРО_СводныйОтчетОРезультатахПроверки_4кв2025</commonTemplates>
   <commonTemplates>CommonTemplate.СРО_ПроверкаОтчетовОбОперацияхСДСМарт2026</commonTemplates>
+  <commonTemplates>CommonTemplate.СРО_СводныйОтчетОРезультатахПроверки_1кв2026</commonTemplates>
   <filterCriteria>FilterCriterion.СвязанныеДокументы</filterCriteria>
   <filterCriteria>FilterCriterion.ФайлыВТоме</filterCriteria>
   <commonModules>CommonModule.АдминистрированиеКластераCOMКлиентСервер</commonModules>
@@ -1625,6 +1626,8 @@
   <catalogs>Catalog.СРО_Субъекты</catalogs>
   <catalogs>Catalog.СРО_УправленияГУ</catalogs>
   <catalogs>Catalog.СРО_ВидыОперацийДС</catalogs>
+  <catalogs>Catalog.СРО_АффилированныеЛица</catalogs>
+  <catalogs>Catalog.СРО_ТипыАффилированныхЛиц</catalogs>
   <documents>Document.ОтчетностьКПК</documents>
   <documents>Document.ЗначенияПСК</documents>
   <documents>Document.ОтчетОПерсональномСоставеКооператива</documents>

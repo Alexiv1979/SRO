@@ -4540,7 +4540,7 @@
   <commandInterface>
     <navigationPanel>
       <cmiFragmentRecord>
-        <command>0</command>
+        <command>0:346cb8b7-a20e-4a06-823e-26dfb2e3e741</command>
         <type>Added</type>
         <group>FormNavigationPanelGoTo</group>
         <index>0</index>
