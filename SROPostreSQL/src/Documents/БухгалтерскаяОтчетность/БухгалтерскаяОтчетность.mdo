@@ -1094,6 +1094,81 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <tabularSections uuid="27e4e158-c5bd-461e-8246-66698920b2fe">
+    <producedTypes>
+      <objectType typeId="9f62df32-dfbe-4d82-9898-30a3c6f1fa6c" valueTypeId="2a52524f-4a14-4c22-9cdb-9179b2ef25d5"/>
+      <rowType typeId="35528069-a2e5-4d6c-ab99-35df63b2c36d" valueTypeId="9fc950bd-4bb9-440f-9c2f-f7b5d6fd4c67"/>
+    </producedTypes>
+    <name>КодыБухОтчетность</name>
+    <synonym>
+      <key>ru</key>
+      <value>Коды бух отчетность</value>
+    </synonym>
+    <standardAttributes>
+      <dataHistory>Use</dataHistory>
+      <name>LineNumber</name>
+      <fillValue xsi:type="core:UndefinedValue"/>
+      <fullTextSearch>Use</fullTextSearch>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </standardAttributes>
+    <attributes uuid="e15f9f2e-1668-4da2-96c6-6f66e6126194">
+      <name>Реквизит1</name>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>500</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="4eb97028-0b82-4b8f-8a6d-e4711b8e2785">
+      <name>Реквизит2</name>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>500</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="a5507987-479e-44fc-aac0-e41d81f221ed">
+      <name>Реквизит3</name>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>500</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="3af4016f-f02f-4349-b375-5f4465b80b40">
+      <name>Код</name>
+      <synonym>
+        <key>ru</key>
+        <value>Код</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>500</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
   <templates uuid="120f6ef8-066a-45da-b764-5a6eb60ff001">
     <name>ТаблицаПоказателей</name>
     <synonym>

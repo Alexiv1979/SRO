@@ -7,5 +7,6 @@
   </synonym>
   <content>Report.ДвиженияДокумента</content>
   <content>CommonModule.ОтчетОДвиженияхДокументаСлужебныйКлиент</content>
+  <content>365c69c3-6136-43d4-9a05-2b46cf864e6f</content>
   <parentSubsystem>Subsystem.СтандартныеПодсистемы</parentSubsystem>
 </mdclass:Subsystem>

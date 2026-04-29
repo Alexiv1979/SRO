@@ -128,6 +128,9 @@
     <userVisible>
       <common>true</common>
     </userVisible>
+    <dataPath xsi:type="form:DataPath">
+      <segments>1/0:aa862bfd-4f84-4d03-81ce-6aa732a5b825</segments>
+    </dataPath>
     <extendedTooltip>
       <name>ПорядокСортировкиРасширеннаяПодсказка</name>
       <id>15</id>

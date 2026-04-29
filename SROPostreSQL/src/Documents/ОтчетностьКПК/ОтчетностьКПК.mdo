@@ -3836,6 +3836,429 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <tabularSections uuid="1fd4153f-a981-418d-9fbe-9ed26410e066">
+    <producedTypes>
+      <objectType typeId="77c809dd-88e8-46d2-8b1b-c43945bd5b79" valueTypeId="a6431bf9-dc7c-4342-ae2e-2ed265ef6771"/>
+      <rowType typeId="cfd15bba-80ce-43b5-aa89-aec2d0fdf4a7" valueTypeId="e173bbe7-a14f-4a4f-9da8-f501c20b0597"/>
+    </producedTypes>
+    <name>ТаблицаАффилированныхЛиц_21651</name>
+    <synonym>
+      <key>ru</key>
+      <value>Таблица аффилированных лиц 21651</value>
+    </synonym>
+    <standardAttributes>
+      <dataHistory>Use</dataHistory>
+      <name>LineNumber</name>
+      <fillValue xsi:type="core:UndefinedValue"/>
+      <fullTextSearch>Use</fullTextSearch>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </standardAttributes>
+    <attributes uuid="5dfa7640-45ca-4784-b88a-8b9a77e8ac5b">
+      <name>АффЛицо</name>
+      <synonym>
+        <key>ru</key>
+        <value>Афф лицо</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.СРО_АффилированныеЛица</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="0f175442-f381-4f2e-8cc2-b85f7c1a73e8">
+      <name>ИдентАффЛица</name>
+      <synonym>
+        <key>ru</key>
+        <value>Идент афф лица</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>100</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="e787dee6-a047-45ea-af6f-4e5101e48663">
+      <name>ПоказательА1_1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А1-1</value>
+      </synonym>
+      <type>
+        <types>Boolean</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="1829d4fc-0d30-4309-bcba-fe6d40b3cfd9">
+      <name>ПоказательА1_1_Дата</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А1-1 дата наступления</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="10b3393d-327b-419f-b98a-a2ab6ba287a8">
+      <name>ПоказательА1_2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А1-2</value>
+      </synonym>
+      <type>
+        <types>Boolean</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="67f14594-c9b6-4a2c-98d2-2edc6bcb134f">
+      <name>ПоказательА1_2_Дата</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А1-2 дата наступления</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="29a3b852-a7b1-4819-b122-b74e97322344">
+      <name>ПоказательА1_3</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А1-3</value>
+      </synonym>
+      <type>
+        <types>Boolean</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="6597c6fa-bd2b-475d-bbf7-78f389badf2d">
+      <name>ПоказательА1_3_Дата</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А1-3 дата наступления</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="7849c1a6-b803-4ff5-9149-e1bbbf092486">
+      <name>ПоказательА2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А2</value>
+      </synonym>
+      <type>
+        <types>Boolean</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="e864bd83-ee86-46fd-9171-b107adaafc3b">
+      <name>ПоказательА2_Дата</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А2 дата наступления</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="dafad0a8-29f8-4994-9866-b573c044c811">
+      <name>ПоказательА2_1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А2-1</value>
+      </synonym>
+      <type>
+        <types>Boolean</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="9484c171-1c3c-4149-819e-331e8e82ce86">
+      <name>ПоказательА2_1_Дата</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А2-1 дата наступления</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="c21a1b0e-ee36-47db-b1d1-bac8bcccd5bc">
+      <name>ПоказательА4</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А4</value>
+      </synonym>
+      <type>
+        <types>Boolean</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="5c0382cf-1864-41b8-8d8d-6f1cb397b571">
+      <name>ПоказательА4_Дата</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А4 дата наступления</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="979a7689-3875-40ab-936b-42dd24a60cf9">
+      <name>ПоказательА6</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А6</value>
+      </synonym>
+      <type>
+        <types>Boolean</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="7970354a-fe86-4271-8319-9772654ad046">
+      <name>ПоказательА6_Дата</name>
+      <synonym>
+        <key>ru</key>
+        <value>Показатель А6 дата наступления</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="ca20492c-f69e-4c99-9cb5-3d07cb24a753">
+      <name>РегНомерОрг</name>
+      <synonym>
+        <key>ru</key>
+        <value>Рег номер орг</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>100</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="ffb8016b-8948-4627-9c9c-366cab4a28c9">
+      <name>АкцииДоли</name>
+      <synonym>
+        <key>ru</key>
+        <value>Акции доли</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>15</precision>
+          <scale>4</scale>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="3f5a82a1-7862-4d16-b1d3-61866923254b">
+      <name>ДатаПрекращенияОснованияАффелированности</name>
+      <synonym>
+        <key>ru</key>
+        <value>Дата прекращения основания аффелированности</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="05deea15-a1ee-4898-af18-c4d8d4b859ef">
+      <name>Примечание</name>
+      <synonym>
+        <key>ru</key>
+        <value>Примечание</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>500</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="632f801d-e5cc-485f-a698-cb219195bc78">
+    <producedTypes>
+      <objectType typeId="382967e7-c77c-4b22-91bb-6d3326abf113" valueTypeId="38adc51e-06a6-4d14-853f-e6aafba429a1"/>
+      <rowType typeId="54851baa-953b-4674-83e4-7faed26f24bd" valueTypeId="205a7e9d-f5fb-4860-9230-73c153a09c4e"/>
+    </producedTypes>
+    <name>ТаблицаАффилированныхЛиц_21652_Взаимосвязи</name>
+    <synonym>
+      <key>ru</key>
+      <value>Таблица аффилированных лиц 21652 взаимосвязи</value>
+    </synonym>
+    <standardAttributes>
+      <dataHistory>Use</dataHistory>
+      <name>LineNumber</name>
+      <fillValue xsi:type="core:UndefinedValue"/>
+      <fullTextSearch>Use</fullTextSearch>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </standardAttributes>
+    <attributes uuid="45beecca-c308-4583-80f5-6b7b932bf890">
+      <name>ИдентМеждуАффЛицами</name>
+      <synonym>
+        <key>ru</key>
+        <value>Идент между афф лицами</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>100</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="3bb05e9c-461d-4008-90d4-bb4cb308a11f">
+      <name>ИдентАффЛицо1</name>
+      <synonym>
+        <key>ru</key>
+        <value>Идент афф лицо1</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>100</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="980ecbc6-6b6a-4a05-bf0a-1cf36f03989c">
+      <name>ИдентАффЛицо2</name>
+      <synonym>
+        <key>ru</key>
+        <value>Идент афф лицо2</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>100</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="aa1ea6e9-bfbe-4563-bbad-44750d8d5a40">
+      <name>Основание</name>
+      <synonym>
+        <key>ru</key>
+        <value>Основание</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
   <templates uuid="5b19f3aa-85ef-4e56-aec2-8aa7ec817e4e">
     <name>ТаблицаПоказателей</name>
     <synonym>

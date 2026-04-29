@@ -69,6 +69,7 @@
   <content>CommonForm.ВыборТиповПользователей</content>
   <content>DefinedType.Пользователь</content>
   <content>CommonForm.НовыйПароль</content>
+  <content>3b1ee6e7-c2ae-4532-a2d8-99d7f96c0450</content>
   <content>CommonForm.ПредупреждениеБезопасности</content>
   <parentSubsystem>Subsystem.СтандартныеПодсистемы</parentSubsystem>
 </mdclass:Subsystem>
