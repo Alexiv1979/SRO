@@ -19,4 +19,5 @@
   <content>Catalog.СРО_УправленияГУ</content>
   <content>Constant.ЛогинИТС</content>
   <content>Constant.ПарольИТС</content>
+  <content>Catalog.СтраныМира</content>
 </mdclass:Subsystem>
