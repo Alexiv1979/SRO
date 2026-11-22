@@ -4,7 +4,7 @@
 	<setForAttributesByDefault>true</setForAttributesByDefault>
 	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
 	<object>
-		<name>Configuration.Кофнигурация</name>
+		<name>Configuration.Конфнигурация</name>
 		<right>
 			<name>ExternalConnection</name>
 			<value>true</value>

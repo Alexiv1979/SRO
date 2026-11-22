@@ -62,6 +62,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
+    <indexing>Index</indexing>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
@@ -77,6 +78,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
+    <indexing>Index</indexing>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
@@ -95,6 +97,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
+    <indexing>Index</indexing>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
@@ -4251,6 +4254,158 @@
         <types>String</types>
         <stringQualifiers>
           <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="45aefaf3-4be0-43a9-ba43-25d45c4cb7ba">
+    <producedTypes>
+      <objectType typeId="41fb44f1-07f6-4590-90da-26bd6ce77b26" valueTypeId="39681482-0d81-4268-b56f-e96c234dc5d6"/>
+      <rowType typeId="5e5d5c81-f497-4cdb-8538-97073a01ceab" valueTypeId="bd7d47cd-6081-40d2-a884-7670dfe6fe6b"/>
+    </producedTypes>
+    <name>ТаблицаАффилированныхЛиц_21651_Подраздел1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Таблица аффилированных лиц 21651 подраздел1</value>
+    </synonym>
+    <standardAttributes>
+      <dataHistory>Use</dataHistory>
+      <name>LineNumber</name>
+      <fillValue xsi:type="core:UndefinedValue"/>
+      <fullTextSearch>Use</fullTextSearch>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </standardAttributes>
+    <attributes uuid="4a1c2984-06f3-4b81-ab87-3c0bc4c9ad01">
+      <name>ИдентАффЛица</name>
+      <synonym>
+        <key>ru</key>
+        <value>Идент афф лица</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>100</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="fc0c44ee-fa97-4d01-926c-4dd9da755bc3">
+      <name>АффЛицо</name>
+      <synonym>
+        <key>ru</key>
+        <value>Афф лицо</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.СРО_АффилированныеЛица</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="d45cc95c-16d7-485c-9b82-de28156ee673">
+    <producedTypes>
+      <objectType typeId="92f3577c-7037-4dea-b176-f2674e4d3eb0" valueTypeId="e7e81a2f-a92f-4f28-a319-c9cc76d822be"/>
+      <rowType typeId="25f485d7-7b51-403a-a168-914011f5357f" valueTypeId="e66996a1-7c4c-4f74-99a0-96f55e51fbbc"/>
+    </producedTypes>
+    <name>ТаблицаБКИ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Таблица БКИ</value>
+    </synonym>
+    <standardAttributes>
+      <dataHistory>Use</dataHistory>
+      <name>LineNumber</name>
+      <fillValue xsi:type="core:UndefinedValue"/>
+      <fullTextSearch>Use</fullTextSearch>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </standardAttributes>
+    <attributes uuid="04b09140-5618-4f2b-aecc-528a17a7b380">
+      <name>БКИПолноеНаименование</name>
+      <synonym>
+        <key>ru</key>
+        <value>Полное наименование БКИ</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers/>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="f3f93f40-7a7e-448b-8592-353b58b35505">
+      <name>БКИИНН</name>
+      <synonym>
+        <key>ru</key>
+        <value>ИНН БКИ</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>12</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="5e75aeeb-fbed-4e9c-a70a-3de80dd12267">
+      <name>БКИОГРН</name>
+      <synonym>
+        <key>ru</key>
+        <value>ОГРН БКИ</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>15</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="331c2337-f0eb-4f72-837e-71064cef4193">
+      <name>БКИДатаЗаключенияДоговора</name>
+      <synonym>
+        <key>ru</key>
+        <value>Дата заключения договора БКИ</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="c0e4331e-b812-4bd5-812e-23c1495f441c">
+      <name>БКИНомерДоговора</name>
+      <synonym>
+        <key>ru</key>
+        <value>Номер договора БКИ</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>100</length>
         </stringQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>

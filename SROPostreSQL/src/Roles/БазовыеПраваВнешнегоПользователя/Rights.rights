@@ -572,7 +572,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Configuration.Кофнигурация</name>
+		<name>Configuration.Конфнигурация</name>
 		<right>
 			<name>MainWindowModeNormal</name>
 			<value>true</value>
